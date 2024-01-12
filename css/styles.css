@@ -1,0 +1,15 @@
+.thumbnail {
+  height: 40px;
+  width: 40px;
+}
+
+section {
+  height: 100vh;
+}
+
+.card {
+  box-shadow: 10px 10px black;
+}
+.card:hover {
+  box-shadow: 15px 15px black;
+}
